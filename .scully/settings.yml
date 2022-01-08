@@ -1,0 +1,11 @@
+identifier: k8y05c7bu9o0t6nb
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: scully-blog
+homeFolder: /home/pedro/development/scully-blog
+distFolder: ./dist/scully-blog
+outDir: /home/pedro/development/scully-blog/dist/static
+handle404: ''
+allowErrorCollect: true
