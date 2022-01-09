@@ -4,8 +4,8 @@ staticPort: 1668
 reloadPort: 2667
 hostName: localhost
 projectName: scully-blog
-homeFolder: /home/pedro/development/scully-blog
+homeFolder: /home/pedro/development/scully-blog-cms
 distFolder: ./dist/scully-blog
-outDir: /home/pedro/development/scully-blog/dist/static
+outDir: /home/pedro/development/scully-blog-cms/dist/static
 handle404: ''
 allowErrorCollect: true
