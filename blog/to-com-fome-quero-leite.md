@@ -1,8 +1,10 @@
 ---
 title: To com fome
-description: Aqui vou contar como estou com fome e pensando no momento...
+description: então vou ficar puto
 published: true
-tags: [outros, bobeiras]
+tags:
+  - outros
+  - bobeiras
 author: Pedro Reis
 date: 08/01/2022
 slug: to-com-fome
