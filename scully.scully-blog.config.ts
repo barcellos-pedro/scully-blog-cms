@@ -7,10 +7,11 @@ export const config: ScullyConfig = {
   outDir: './dist/static', // directory for scully build artifacts
   defaultPostRenderers: [],
   routes: {
-    '/blog/:postId': {
+    '/blog/:slug': {
       type: 'contentFolder',
-      postId: {
+      slug: {
         folder: "./blog"
       }
-    },},
+    },
+  },
 };

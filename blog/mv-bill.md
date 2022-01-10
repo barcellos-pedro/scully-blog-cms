@@ -3,8 +3,9 @@ title: Como MV Bill fez o primeiro Grime brasileiro com Charlie Brown Jr. e DJ L
 description: Inspirado em Dizzee Rascal, "Cidadão Comum Refém" marcou o pioneirismo do gênero no Brasil e o MC nos conta como tudo rolou.
 published: true
 tags: [rap, music]
-authorName: Pedro Reis
+author: Pedro Reis
 date: 08/01/2022
+slug: mv-bill
 ---
 
 # Como MV Bill fez o primeiro Grime brasileiro com Charlie Brown Jr. e DJ Luciano

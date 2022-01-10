@@ -3,8 +3,9 @@ title: BTS - Permission to dance!
 description: I wanna dance, the music's got me going
 published: true
 tags: [bts, music]
-authorName: Pedro Reis
+author: Pedro Reis
 date: 08/01/2022
+slug: bts-permission-to-dance
 ---
 
 # BTS do poder

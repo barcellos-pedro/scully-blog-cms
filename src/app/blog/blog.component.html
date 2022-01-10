@@ -4,8 +4,9 @@
     <ng-container *ngFor="let page of links$ | async">
         <li *ngIf="page?.route !== '/' && page?.title?.length">
             <a [routerLink]="page.route" title="Go to post">{{ page.title }}</a>
-            <p>Autor: {{ page['authorName'] }} - Data: {{ page['date'] }}</p>
+            <p>Autor: {{ page['author'] }} - Data: {{ page['date'] }}</p>
             <p *ngIf="page['tags'].length">Tags - [{{ page['tags'].join(', ') }}]</p>
+            <p>Slug: {{ page['slug'] }}</p>
         </li>
     </ng-container>
 </ul>
