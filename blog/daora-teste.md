@@ -1,6 +1,6 @@
 ---
-title: daora teste
-description: bom demais a descrição
+title: A larica dos muleke
+description: Um dos clássicos da internet
 published: true
 tags:
   - teste
