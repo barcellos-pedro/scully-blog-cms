@@ -1,13 +1,13 @@
 <nav *ngIf="(isAdminPage$ | async) === false">
     <ul>
         <li>
-            <a routerLink="/home">Home</a>
+            <a routerLink="/home" routerLinkActive="active">Home</a>
         </li>
         <li>
-            <a routerLink="/blog">Blog</a>
+            <a routerLink="/blog" routerLinkActive="active" title="Ir para os posts do blog">Blog</a>
         </li>
         <li>
-            <a routerLink="/admin">Admin</a>
+            <a routerLink="/admin" target="_blank" title="Crie e edite os posts">CMS</a>
         </li>
     </ul>
 </nav>
